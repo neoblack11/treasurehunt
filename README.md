@@ -1,2 +1,3 @@
-# treasurehunt
+# rockpaperscissors
+
 game
